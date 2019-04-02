@@ -1,0 +1,23 @@
+#wrapper{
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+    width: 60%;
+    border: 10px ridge #ddd;
+    padding: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
+table, td, th {  
+  border: 0.5px solid #ddd;
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  padding: 10px;
+}
